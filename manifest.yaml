@@ -1,6 +1,6 @@
-version: 0.0.30
+version: 0.0.22
 type: plugin
-author: "lang"
+author: "langgenius"
 name: "openai"
 description:
   en_US: Models provided by OpenAI, such as GPT-3.5-Turbo and GPT-4.
